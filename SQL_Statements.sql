@@ -1,3 +1,5 @@
+/*Compiled list of SQL statements used in Database Theory. */
+
 INSERT INTO Product
 	SELECT maker, model+1100, 'laptop' FROM Product WHERE type = 'pc';
 INSERT INTO Laptop
