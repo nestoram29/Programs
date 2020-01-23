@@ -1,3 +1,7 @@
+/*
+Cocktail sort in Java. This program was created to find the worst, best, and average cases for Cocktail sort.
+*/
+
 package com.company;
 
 import java.util.Random;
