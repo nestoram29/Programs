@@ -1,3 +1,10 @@
+/*
+This is a C++ guessing game. The user inputs a max and the program randomly generates a number from 1 to the max. 
+The user then has to guess the number while the program keeps count on the number of guesses untill the user guesses the correct number.
+
+This C++ program was created for the Programming Languages class to showcase C++.
+*/
+
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
